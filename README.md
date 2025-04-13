@@ -10,8 +10,10 @@ Student<br>Khulna University of Engineering and Technology<br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MMI122&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MMI122&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MMI122&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MMI122&layout=compact&langs_count=10)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMI122&layout=compact&langs_count=20&theme=tokyonight" alt="My GitHub Language Stats" />
+</p>
+
 
 
 ## 🏆 GitHub Trophies
